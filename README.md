@@ -1,2 +1,2 @@
 # MayaToLux
-Maya integration for LuxCoreRender
+Autodesk Maya integration for LuxCoreRender
